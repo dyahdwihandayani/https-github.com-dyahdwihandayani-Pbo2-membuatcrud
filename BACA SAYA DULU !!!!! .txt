@@ -1,0 +1,7 @@
+langkah menjalankan aplikasinya 
+1.buat databasenya atau salin DB yg sdh saya buat ke phpmyadmin
+2.buka aplikasi di netbeans.nya
+3.pilih home view lalu klik run file ( shift+f6 )
+4.selesai 
+
+==== SELAMAT MENCOBA =====
